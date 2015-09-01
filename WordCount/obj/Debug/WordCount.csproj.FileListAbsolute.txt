@@ -1,0 +1,6 @@
+C:\Users\dmason\development\CMMtest\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\dmason\development\CMMtest\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\dmason\development\CMMtest\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\dmason\development\CMMtest\WordCount\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\dmason\development\CMMtest\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\dmason\development\CMMtest\WordCount\WordCount\obj\Debug\WordCount.pdb
